@@ -2,7 +2,7 @@
 
 Mobile Developer Test Task - Contact Form
 
->> Made by Adam I.
+> Made by Adam I.
 
 ## Packages that used
 
